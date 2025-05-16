@@ -1,6 +1,6 @@
 # Assignment 2
-# Name:** Yamlak Negash  
-# ID:** UGR/2910/15  
+# Name: Yamlak Negash  
+# ID: UGR/2910/15  
 # Section:** 2
 
 # Todo App
